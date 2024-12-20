@@ -72,3 +72,17 @@ print("Hello, " + name + "! Nice to meet you.")
 # Use input() to collect the user's name and age.
 # Print a welcome message that includes the user's name.
 # !!optional!! Perform a simple arithmetic operation using numbers entered by the user.
+
+print("welcome to my program")
+name = input("what is your name?")
+age = input("how old are you?")
+print("hello, " + name + "! you are " + age + " years old")
+
+# optional
+# Perform a simple arithmetic operation using numbers entered by the user.
+# Ask the user for two numbers and add them together.
+# Print the result of the addition.
+num1 = input("Enter the first number: ")
+num2 = input("Enter the second number: ")
+print("The sum of " + num1 + " and " + num2 + " is "      + (num1 + num2))
+
