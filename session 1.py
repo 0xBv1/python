@@ -86,3 +86,39 @@ num1 = input("Enter the first number: ")
 num2 = input("Enter the second number: ")
 print("The sum of " + num1 + " and " + num2 + " is "      + (num1 + num2))
 
+
+# task1:
+# Write a code that welcomes the user when the program starts.
+# Use input() to collect the user's name and age.
+# Print a welcome message that includes the user's name.
+# !!optional!! Perform a simple arithmetic operation using numbers entered by the user.
+
+
+print("welcome")
+name= input("what is your name?")
+age = input("how old are you?")
+print(f"welcome{name} you are {age} years old")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
